@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travel-guide/static/css/main.1c5b92b6.css",
+    "main.js": "/travel-guide/static/js/main.21d0efb7.js",
+    "static/media/BaganMyanmar.jpg": "/travel-guide/static/media/BaganMyanmar.e27aa0efff385a8d0d1e.jpg",
+    "index.html": "/travel-guide/index.html",
+    "main.1c5b92b6.css.map": "/travel-guide/static/css/main.1c5b92b6.css.map",
+    "main.21d0efb7.js.map": "/travel-guide/static/js/main.21d0efb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5b92b6.css",
+    "static/js/main.21d0efb7.js"
+  ]
+}
